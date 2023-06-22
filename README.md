@@ -18,3 +18,10 @@ The Student Management System is a software application designed to manage data 
 
 
 ![image](https://github.com/diptanusaha2001/Student-Information-System/assets/84168441/2094b4f3-12e6-4056-bee3-b6154603b3eb)
+
+# Screenshots
+![WhatsApp Image 2023-05-03 at 19 52 56](https://github.com/diptanusaha2001/Student-Information-System/assets/84168441/f3b2f513-e3ac-4462-8dd0-c033598638d0)
+
+![WhatsApp Image 2023-05-03 at 19 53 31](https://github.com/diptanusaha2001/Student-Information-System/assets/84168441/669eb2b2-ba1a-47a6-8605-6532c4726273)
+
+![WhatsApp Image 2023-05-03 at 19 53 57](https://github.com/diptanusaha2001/Student-Information-System/assets/84168441/1b021664-1844-43bc-b7ef-4014b011a75c)
